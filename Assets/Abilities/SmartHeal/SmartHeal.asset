@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77ae5993203c1ea4bb9aed06723589f0, type: 3}
+  m_Name: SmartHeal
+  m_EditorClassIdentifier: 
+  abilityName: SmartHeal
+  abilityComponentData:
+  - {fileID: 11400000, guid: 94d5d700cf772c2459f65f381ba62b59, type: 2}
+  - {fileID: 11400000, guid: 67c3f43fb765e0b40adb973c93c0b7a6, type: 2}
+  - {fileID: 11400000, guid: 372b1b9964c712542a23aafff82a1c48, type: 2}
+  - {fileID: 11400000, guid: d34a9da8b86c9ef448063034432b3b36, type: 2}
+  - {fileID: 11400000, guid: f4f4d0e4b01689c4e9eb3db76da9158c, type: 2}
